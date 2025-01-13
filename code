@@ -14,10 +14,10 @@ print("Dataset Info:\n")
 print(df.info())
 print("\nFirst 5 Rows of the Dataset:\n", df.head())
 
-# Preprocessing the dataset
+# Preprocessing of dataset
 print("\nMissing Values:\n", df.isnull().sum())
 
-# Handle missing values (if any)
+# Handle missing values
 df = df.dropna()  # Dropping rows with missing values for simplicity
 
 # Encode categorical variables
