@@ -12,6 +12,10 @@ Duration: 01Jan2025-30Jan2025
 
 ## Overview
 The project aims to predict the selling price of cars based on various factors such as the car's brand, features, horsepower, mileage, and other attributes. By leveraging machine learning, the model provides insights into how different features affect car prices, making it useful for buyers and sellers in the automotive industry.
+![Screenshot 2025-01-12 182643](https://github.com/user-attachments/assets/12568b20-6d32-4594-bc57-4b509dc12bb4)
+![Screenshot 2025-01-12 182657](https://github.com/user-attachments/assets/df407a83-bcc3-4482-85e1-56fe41041379)
+![Screenshot 2025-01-12 182710](https://github.com/user-attachments/assets/af2f46aa-397d-4e70-a85a-580f8699acad)
+
 
 ## Objective
 To develop a machine learning model that accurately predicts car prices using relevant features from a given dataset.
